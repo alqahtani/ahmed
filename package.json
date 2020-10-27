@@ -1,18 +1,17 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "ahmed",
+  "version": "1.0.0",
+  "description": "A personal card for Ahmed AlQahtani (@alqahtani)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "ahmed": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/alqahtani/npxahmed.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://asd.sa",
   "scripts": {
-    "prepublish": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
     "lint": "standard",
@@ -26,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Ahmed AlQahtani <alq.ahmad@gmail.com> (http://asd.sa)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +37,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/alqahtani/npxahmed/issues"
   },
   "dependencies": {},
   "publishConfig": {
