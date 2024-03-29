@@ -4,7 +4,7 @@
   "description": "A personal card for Ahmed AlQahtani (@alqahtani)",
   "main": "/bin/card.js",
   "bin": {
-    "ahmed": "./bin/card.js"
+    "ahmed": "bin/card.js"
   },
   "repository": {
     "type": "git",
