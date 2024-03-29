@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('               Ahmed AlQahtani'),
   handle: chalk.white('@alqahtani'),
-  work: chalk.white('Tech Lead @ KKUx.org'),
+  work: chalk.white('AI Manager @ NELC'),
   // opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('alqa7tani'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~alqahtani'),
